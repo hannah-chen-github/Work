@@ -1,0 +1,1 @@
+original message request date time -> check db for that original message -> check mirth for that original message ->  check which ccac and which destination endpoint -> compare success cases and failed cases with the same destination end point at same time range
